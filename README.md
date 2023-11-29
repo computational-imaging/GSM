@@ -1,1 +1,1 @@
-Gaussian Shell Maps for Efficient 3D Human Generation
+#Gaussian Shell Maps for Efficient 3D Human Generation
