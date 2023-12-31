@@ -1,0 +1,3 @@
+build/
+batch_diff_gaussian_rasterization.egg-info/
+dist/

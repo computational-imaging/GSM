@@ -1,0 +1,14 @@
+name: gsm
+channels:
+  - bottler
+  - anaconda
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.11=h955ad1f_3
+  - pytorch=1.13.0=py3.10_cuda11.7_cudnn8.5.0_0
+  - pytorch-cuda=11.7=h778d358_5
+  - torchaudio=0.13.0=py310_cu117
+  - torchvision=0.14.0=py310_cu117

@@ -1,0 +1,6 @@
+[submodule "submodules/FLAME"]
+	path = submodules/FLAME
+	url = https://github.com/soubhiksanyal/FLAME_PyTorch.git
+[submodule "submodules/smplx"]
+	path = submodules/smplx
+	url = https://github.com/vchoutas/smplx.git

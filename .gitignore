@@ -1,0 +1,12 @@
+results
+*.pyc
+__pycache__
+output
+.ipynb_checkpoints
+.vscode
+.DS_Store
+._.DS_Store
+*.so
+notebooks/outputs
+test.ipynb
+

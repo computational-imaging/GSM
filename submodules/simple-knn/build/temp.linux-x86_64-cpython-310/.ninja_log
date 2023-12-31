@@ -1,0 +1,4 @@
+# ninja log v5
+0	9874	1692046121109083766	/home/rabdal/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	d626ea8b0da3098
+0	16333	1692046127561106213	/home/rabdal/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	de81b92a0e85dc31
+1	42369	1692046153601196847	/home/rabdal/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	6817569262c4ae3e
