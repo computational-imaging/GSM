@@ -58,7 +58,7 @@ python gen_interpolation.py --network xxxx.pkl --outdir xxxx --z_seeds 251,58
 
 Seeds: 297,235,27,41,135,903,894,570,361,369
 ```
-![Teaser image](./docs/interp.gif)
+
     
 ## Generate Novel Poses
 
@@ -92,7 +92,7 @@ python gen_editing.py --network xxxx.pkl --seeds 0,1,2 --seeds_tobereplaced 6162
 ## Generate Animated Sequences
 
 ```.bash
-# Generate animated sequences and view on html using pre-trained model
+# Generate animated sequences and view on HTML using pre-trained model
 
 cd main/gsm
 
