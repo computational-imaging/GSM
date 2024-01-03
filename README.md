@@ -58,9 +58,7 @@ python gen_interpolation.py --network xxxx.pkl --outdir xxxx --z_seeds 251,58
 
 Seeds: 297,235,27,41,135,903,894,570,361,369
 ```
-<video loop id="1" width="100%"  controls="controls" autoplay muted > 
-        <source type="video/mp4" src="./docs/interp.mp4" /> 
-    </video>
+![Teaser image](./docs/interp.gif)
     
 ## Generate Novel Poses
 
